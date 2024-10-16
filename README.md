@@ -1,6 +1,6 @@
 #descargamos el repositorio con el sig comando:
 
-git clone 
+git clone https://github.com/CruzJairPR/Server-Express.git
 
 #2 corremos el comando para instalar dependencias:
 
