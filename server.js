@@ -1,7 +1,7 @@
 const express = require('express');
 const cors = require('cors');
 const app = express();
-const port = 3001; 
+const port = 8080; 
 
 // Middleware
 app.use(cors());
@@ -15,7 +15,7 @@ const usuarios = [
     "correo": "anagarcia@example.com",
     "rol": "Administrador",
     "estado": true,
-    "pw": "password123"
+    "pw": "password125"
   },
   {
     "id": 2,
